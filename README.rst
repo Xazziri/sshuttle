@@ -1,6 +1,14 @@
 sshuttle: where transparent proxy meets VPN meets ssh
 =====================================================
 
+I've restored the removed setup.py, for easier installation. 
+Install:
+```
+git clone git@github.com:Xazziri/sshuttle.git
+cd sshuttle
+./setup.py install
+```
+=====================================================
 As far as I know, sshuttle is the only program that solves the following
 common case:
 
