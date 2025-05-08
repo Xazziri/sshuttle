@@ -7,7 +7,7 @@ Install:
 git clone git@github.com:Xazziri/sshuttle.git
 cd sshuttle
 ./setup.py install
-``
+```
 
 ------------------
 
